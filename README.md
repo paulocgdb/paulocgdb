@@ -10,10 +10,16 @@
 
 🧰 Toolbox
   <div>
- <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg width="85" height="85"/>
-    <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg width="85" height="85"/>
-    <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg width="85" height="85"/>
-    <img src=https://cdn.worldvectorlogo.com/logos/logo-javascript.svg width="85" height="85"/>
-    <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg width="85" height="85"/>
-    <img src=https://cdn.worldvectorlogo.com/logos/oracle-6.svg width="85" height="85"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg alt="JAVA" width="85" height="85"/>
+    <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg alt="Spring Framework" width="85" height="85"/>
+    <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg alt="Angular Framework" width="85" height="85"/>
+    <img src=https://cdn.worldvectorlogo.com/logos/logo-javascript.svg alt="JavaScript" width="85" height="85"/>
+    <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg width="85" height="85" alt="PostgreSQL"/>
+    <img src=https://cdn.worldvectorlogo.com/logos/oracle-6.svg width="85" height="85" alt="Oracle Server"/>
+    <img src=https://cdn.worldvectorlogo.com/logos/git.svg width="85" height="85" alt="GIT"/>
+    <img src=https://cdn.worldvectorlogo.com/logos/rabbitmq.svg width="85" height="85" alt="RabbitMQ"/>
+    <img src=https://cdn.worldvectorlogo.com/logos/docker.svg width="85" height="85" alt="Docker"/>
+    <img src=https://www.thymeleaf.org/doc/images/thymeleaf.png width="85" height="85" alt="Thymeleaf"/>
+    
+    
   </div>
