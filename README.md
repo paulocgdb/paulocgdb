@@ -13,6 +13,7 @@
  <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg width="85" height="85"/>
     <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg width="85" height="85"/>
     <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg width="85" height="85"/>
+    <img src=https://cdn.worldvectorlogo.com/logos/logo-javascript.svg width="85" height="85"/>
     <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg width="85" height="85"/>
-    <img src=https://cdn.worldvectorlogo.com/logos/typescript-2.svg width="85" height="85"/>
+    <img src=https://cdn.worldvectorlogo.com/logos/oracle-6.svg width="85" height="85"/>
   </div>
