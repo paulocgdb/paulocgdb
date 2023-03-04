@@ -1,11 +1,9 @@
 ### Opa, bão!? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, confere aí e bora codar!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocgdb&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulocgdb&show_icons=true&theme=tokyonight)
 
-<div align="left">
-  <a href="https://github.com/paulocgdb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulocgdb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 
 
 🧰 Toolbox
