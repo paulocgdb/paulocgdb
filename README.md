@@ -1,4 +1,10 @@
-### Opa, bão!? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, confere aí e bora codar!
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
+
+### I am always looking for new challenges and studying to always face them in the best way possible.
+
+### Feel free to contact me so we can develop a great solution to the problem you are experiencing!
+
+### Follow my statistics in public repositories below.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocgdb&hide=html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
